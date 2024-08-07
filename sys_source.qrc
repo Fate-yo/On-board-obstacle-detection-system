@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Qt_icon">
+        <file>sources/camera.png</file>
+        <file>sources/photo.png</file>
+        <file>sources/video.png</file>
+        <file>sources/background.jpg</file>
+        <file>sources/carmer01.png</file>
+        <file>sources/sound.wav</file>
+    </qresource>
+</RCC>
